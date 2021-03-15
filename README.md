@@ -1,6 +1,6 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
 
-About me
+Hi 👋 i'm Bekzod, a Python beginner developer 📡 from Russian
 
 Languages
 
