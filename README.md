@@ -1,5 +1,5 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
-### Hi 👋 i'm ***Bekzod***, a *Python* beginner developer 📡 from _Russian_
+### Hi 👋 i'm ***Bekzod***, a _Python_ beginner developer 📡 from _Russian_
 <br/>
 
 ### *Languages and Tools:*
