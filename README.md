@@ -1,10 +1,10 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Hi 👋 i'm ***Bekzod*** 
+
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm ***Bekzod*** 
 
 My age is 19 years, i'm beginner Python developer 📡 from _Russian_
 <br/>
-
+npm i @bit/digiaonline.react-foundation.button-group
 #### *Languages and Tools:*
 
 ![Python](https://img.shields.io/badge/Python-0b0d0d?style=for-the-badge&logo=python)
