@@ -1,7 +1,7 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
 ## Hi 👋 i'm ***Bekzod*** 
 
-My age is 19 years, beginner Python developer 📡 from _Russian_
+My age is 19 years, i'm beginner Python developer 📡 from _Russian_
 <br/>
 
 ### *Languages and Tools:*
