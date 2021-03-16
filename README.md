@@ -5,7 +5,7 @@
 My age is 19 years, i'm beginner Python developer 📡 from _Russian_
 <br/>
 <br/>
-<img alt="GIF" src="https://github.com/mandico21/mandico21/blob/main/assets/Yy7O.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/mandico21/mandico21/blob/main/assets/Yy7O.gif?raw=true" width="450" height="270" />
 
 
 #### *Languages and Tools:*
