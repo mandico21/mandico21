@@ -1,4 +1,5 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Hi 👋 i'm ***Bekzod*** 
 
 My age is 19 years, i'm beginner Python developer 📡 from _Russian_
