@@ -1,15 +1,18 @@
 ![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
-### Hi 👋 i'm ***Bekzod***, a _Python_ beginner developer 📡 from _Russian_
+
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm ***Bekzod*** 
+
+My age is 19 years, i'm beginner Python developer 📡 from _Russian_
 <br/>
 
-### *Languages and Tools:*
+#### *Languages and Tools:*
 
 ![Python](https://img.shields.io/badge/Python-0b0d0d?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b0d0d?style=for-the-badge&logo=JavaScript)
 ![Sql](https://img.shields.io/badge/Sql-0b0d0d?style=for-the-badge&logo=postgresql)
 <br/>
 
-### *Folow Me:*
+#### *Folow Me:*
 [![Telegram](https://img.shields.io/badge/Telegram-0b0d0d?style=for-the-badge&logo=Telegram)](https://t.me/mandico21)
 <br/>
 
