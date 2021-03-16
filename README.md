@@ -4,7 +4,7 @@
 
 My age is 19 years, i'm beginner Python developer 📡 from _Russian_
 <br/>
-npm i @bit/digiaonline.react-foundation.button-group
+
 #### *Languages and Tools:*
 
 ![Python](https://img.shields.io/badge/Python-0b0d0d?style=for-the-badge&logo=python)
