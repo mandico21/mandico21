@@ -2,7 +2,7 @@
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm ***Bekzod*** 
 
-### I 19 years old, and i'm a beginner Python developer 📡 from _Russian_
+### I'm 19 years old, and i'm a beginner Python developer 📡 from _Russian_
 <br/>
 <br/>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
