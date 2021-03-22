@@ -16,8 +16,6 @@
 
 
 ### *Folow Me:*
-<br/>
-
 [![Telegram](https://img.shields.io/badge/Telegram-0b0d0d?style=for-the-badge&logo=Telegram)](https://t.me/mandico21)
 <br/>
 
