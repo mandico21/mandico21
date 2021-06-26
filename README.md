@@ -1,5 +1,3 @@
-![Header](https://github.com/mandico21/mandico21/blob/main/assets/logo.jpg)
-
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm ***Bekzod*** 
 <img align="right" alt="GIF" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
